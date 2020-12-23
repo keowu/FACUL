@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula Exercicio 5", "Aula Exercicio 5\Aula Exercicio 5.vcxproj", "{848331EC-E834-4010-853A-4CD49800799F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{848331EC-E834-4010-853A-4CD49800799F}.Debug|x64.ActiveCfg = Debug|x64
+		{848331EC-E834-4010-853A-4CD49800799F}.Debug|x64.Build.0 = Debug|x64
+		{848331EC-E834-4010-853A-4CD49800799F}.Debug|x86.ActiveCfg = Debug|Win32
+		{848331EC-E834-4010-853A-4CD49800799F}.Debug|x86.Build.0 = Debug|Win32
+		{848331EC-E834-4010-853A-4CD49800799F}.Release|x64.ActiveCfg = Release|x64
+		{848331EC-E834-4010-853A-4CD49800799F}.Release|x64.Build.0 = Release|x64
+		{848331EC-E834-4010-853A-4CD49800799F}.Release|x86.ActiveCfg = Release|Win32
+		{848331EC-E834-4010-853A-4CD49800799F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {787E1B22-C297-4BF4-84D2-EA3C95E6E87B}
+	EndGlobalSection
+EndGlobal
